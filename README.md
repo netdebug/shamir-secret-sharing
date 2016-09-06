@@ -1,2 +1,2 @@
 # shamir-secret-sharing
-Basic integer implementation of the Shamir Secret Sharing crypto-system.
+Basic integer-secret implementation of the Shamir Secret Sharing crypto-system.
